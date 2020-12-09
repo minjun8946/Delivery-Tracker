@@ -21,7 +21,7 @@
                 android:layout_marginRight="50dp"
                 android:text="시간"
                 android:textSize="15dp"
-                android:textColor="#ffffff"/>
+                />
 
             <LinearLayout
                 android:id="@+id/small"
@@ -43,8 +43,7 @@
                     android:layout_marginTop="10dp"
                     android:layout_gravity="bottom"
                     android:text="입력 2"
-                    android:textSize="10dp"
-                    android:textColor="#ffffff"/>
+                    android:textSize="10dp" />
             </LinearLayout>
 
         </LinearLayout>
